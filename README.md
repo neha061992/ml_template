@@ -1,1 +1,1 @@
-# ml_template
+# end-to-end-ml-project-template
